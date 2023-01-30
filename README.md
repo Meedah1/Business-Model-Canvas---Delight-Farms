@@ -16,3 +16,7 @@ Channels include direct channels, referrals, website, emails, etc.
 Customer segments includes; co-farmers, stakeholders,customers etc. 
 Revenue streams includes investments, donor fundings, etc lastly, 
 her Cost structure includes land rent cost, construction cost,utiities cost, etc.
+
+
+TECHNOLOGY USED
+BUSINESS MODEL CANVAS
